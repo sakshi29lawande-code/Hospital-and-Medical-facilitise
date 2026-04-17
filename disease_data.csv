@@ -1,0 +1,13 @@
+fever,cough,headache,fatigue,sore_throat,runny_nose,chest_pain,short_breath,vomiting,body_pain,disease
+1,1,1,1,1,1,0,0,0,1,Flu
+0,1,0,0,1,1,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,0,1,Migraine
+1,1,1,1,0,0,1,1,0,1,COVID-19
+1,0,1,1,0,0,0,0,1,1,Dengue
+0,0,0,0,0,0,1,1,0,0,Heart Problem
+0,0,0,1,0,0,0,0,1,0,Food Poisoning
+1,1,0,1,1,1,0,0,0,0,Viral Fever
+0,1,0,0,1,1,0,0,0,0,Allergy
+1,0,1,1,0,0,0,0,0,1,Malaria
+0,0,1,0,0,0,0,0,0,1,Stress
+1,1,0,1,0,0,0,0,1,1,Typhoid
